@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------------*/
 /*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
 /*                         Id da Atividade: S1-B2-2.                                */
-/*             Objetivo: << Bubble sort >>                          */
+/*             Objetivo: << Bubble sort >>                                          */
 /*                                                                                  */
 /*                                  Autor: Pedro Viterbo Zacchi.                    */
 /*                                                                  Data:06/05/2025 */
